@@ -48,7 +48,7 @@ header {
 }
 
 header:before { 
-    background-color: rgba(235, 235, 224, 0.10);
+    background-color: rgba(204, 204, 201, 0.30);
     content: "";
     height: 100%;
     left: 0;
@@ -63,7 +63,7 @@ header * {
 
 header h1 {
     clear: both;
-    color: #00b38f;
+    color: #087861;
     font-family: 'Cormorant', serif;
     font-size: 60px;
     padding: 150px 0 0 415px;
@@ -95,9 +95,10 @@ nav ul li span:hover {
 }
 
 nav ul li a {
-    color: #808080;
+    color: #737373;
     font-family: 'my_underwoodregular';   
     font-size: 18px;
+    font-weight: bold;
     padding-left: 75px;
     text-decoration: none;
     text-transform: uppercase;    
@@ -105,7 +106,7 @@ nav ul li a {
 
 header h2 {
     clear: both;
-    color: #9b9b9b;
+    color: #737373;
     font-family: 'Cormorant', serif;
     font-size: 60px;
     line-height: 80px;
